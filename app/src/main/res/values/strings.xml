@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub Project</string>
+    <string name="login">Login</string>
+    <string name="contact">Contact Us</string>
+    <string name="home">Home</string>
+    <string name="About">About Us</string>
+    <string name="Splash">Splash Screen</string>
+</resources>
