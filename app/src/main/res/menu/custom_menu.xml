@@ -5,13 +5,13 @@
         android:title="Splash Screen"/>
     <item
         android:id="@+id/mnuLogin"
-        android:title="Login Screen"/>
+        android:title="Login"/>
     <item
         android:id="@+id/mnuAbout"
-        android:title="About Screen"/>
+        android:title="About Us"/>
     <item
         android:id="@+id/mnuContact"
-        android:title="Contact Screen"/>
+        android:title="Contact Us"/>
 
 
 </menu>

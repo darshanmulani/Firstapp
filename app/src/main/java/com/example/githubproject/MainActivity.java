@@ -39,12 +39,12 @@ public class MainActivity extends AppCompatActivity {
             case R.id.mnuAbout:
                 Intent intentabout = new Intent(MainActivity.this,Activity_About.class);
                 startActivity(intentabout);
-                Toast.makeText(this, "About Clicked", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "About Us Clicked", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.mnuContact:
                 Intent intentcontact = new Intent(MainActivity.this,Activity_Contact.class);
                 startActivity(intentcontact);
-                Toast.makeText(this, "Contact Clicked", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Contact Us Clicked", Toast.LENGTH_SHORT).show();
                 break;
         }
 

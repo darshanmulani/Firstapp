@@ -114,7 +114,7 @@
         android:background="@drawable/btn_et_bg"
         android:drawableLeft="@drawable/ic_action_phone"
         android:paddingStart="5dp"
-        android:text="8238928488"
+        android:text="7698207775"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
